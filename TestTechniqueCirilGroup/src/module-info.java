@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alexandreplaneille
+ *
+ */
+module TestTechniqueCirilGroup {
+}
